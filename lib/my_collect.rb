@@ -8,7 +8,7 @@ def my_collect(array)
   new_array #return new_array
 end
 
-array = [] #initiate empty array
-my_collect(array) do |element| #block with the required code
-  element.upcase
-end
+# array = [] #initiate empty array
+# my_collect(array) do |element| #block with the required code
+#   element.upcase
+# end
